@@ -1,0 +1,19 @@
+{
+  "name": "formulario",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steven4389/formulario_nodejs_angular.git"
+  },
+  "author": "Alejandro Giraldo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steven4389/formulario_nodejs_angular/issues"
+  },
+  "homepage": "https://github.com/steven4389/formulario_nodejs_angular#readme"
+}
